@@ -1,6 +1,6 @@
 # Optimal-Bayesian-Classifier-and-Regression-Problem
 
-There are three dataset problems solved - 
+There are two different dataset problems solved - 
 
 ## Bayesian Classifier
 
@@ -36,14 +36,3 @@ Test rows - 90
 Using same technique of Binary Classifier and Varying Covariance and visualising through plots of
 Discriminant function and isoprobability contour.
 
-## Regression
-
-### DataSet  
-
-Attributes - 9
-
-Train rows - 3000
-
-### Method 
-Predicting Wage of person through 9 different attributes through Polynomial regression.
-Also, comparing accuracy through each attribute.
